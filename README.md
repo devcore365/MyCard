@@ -1,14 +1,1 @@
-{
-  "name": "Scrim-s027ic2",
-  "description": "https://scrimba.com/learn-html-and-css-c0p/~01u/s08h8q0rdp/head",
-  "scripts": {
-    "start": "vite",
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "vite": "latest"
-  },
-  "devDependencies": {}
-}
+MyCard
